@@ -12,3 +12,4 @@ O código foi desenvolvido de forma modular e bem organizada, facilitando a comp
 Este projeto pode ser útil para aqueles que desejam extrair informações de sites e realizar análises de texto automatizadas. Ele também serve como exemplo de como usar as bibliotecas BeautifulSoup, Spacy e Matplotlib para tarefas de web scraping e visualização de dados.
 
 
+Link do projeto no Colab: https://colab.research.google.com/drive/16i_PX7C1H2PH5-a6zxYmulQH6VMQ_aaf?usp=sharing
